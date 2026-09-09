@@ -1,0 +1,101 @@
+[
+  {
+    "playerName": "Lionel Messi",
+    "playerImg": "https://media.gettyimages.com/id/2281268911/photo/kansas-city-kansas-lionel-messi-of-argentina-poses-for-a-portrait-during-the-official-fifa.jpg?s=612x612&w=0&k=20&c=tmPE6fPOnDg9SHcbji4-NOQfbsDh4XO-N27G3DBNmvQ=",
+    "origin": "Argentina",
+    "playerType": "Forward",
+    "position": "Right Wing",
+    "preferredFoot": "Left-footed",
+    "price": 500
+  },
+  {
+    "playerName": "Cristiano Ronaldo",
+    "playerImg": "https://media.gettyimages.com/id/2281584786/photo/palm-beach-florida-cristiano-ronaldo-of-portugal-poses-for-a-portrait-during-the-official.jpg?s=612x612&w=0&k=20&c=gBh8uqVKBoH7GEdrU4hJ4ig7W2DNHPBnHvsSZRtewig=",
+    "origin": "Portugal",
+    "playerType": "Forward",
+    "position": "Striker",
+    "preferredFoot": "Right-footed",
+    "price": 500
+  },
+  {
+    "playerName": "Neymar Jr",
+    "playerImg": "https://media.gettyimages.com/id/2280073353/photo/brazil-portraits-fifa-world-cup-2026.jpg?s=594x594&w=gi&k=20&c=KuJ9y7FJhXQHJP3cE5CgPHssTDHUFzFbWjePuHYXLVo=",
+    "origin": "Brazil",
+    "playerType": "Forward",
+    "position": "Left Wing",
+    "preferredFoot": "Right-footed",
+    "price": 450
+  },
+  {
+    "playerName": "Lautaro Martinez",
+    "playerImg": "https://media.gettyimages.com/id/2281268942/photo/kansas-city-kansas-lautaro-martinez-of-argentina-poses-for-a-portrait-during-the-official.jpg?s=612x612&w=0&k=20&c=_l9lXTTE38Y3P9z1rMpsLIkfXRctFawJsVvQ0pVfEds=",
+    "origin": "Argentina",
+    "playerType": "Forward",
+    "position": "Striker",
+    "preferredFoot": "Right-footed",
+    "price": 400
+  },
+  {
+    "playerName": "Kevin De Bruyne",
+    "playerImg": "https://media.gettyimages.com/id/2280956041/photo/renton-washington-kevin-de-bruyne-of-belgium-poses-for-a-portrait-during-the-official-fifa.jpg?s=612x612&w=0&k=20&c=UkdH2Y9xGhc9lNZA6ivXaXuOwp-S7SGrYC9u358nmNY=",
+    "origin": "Belgium",
+    "playerType": "Midfielder",
+    "position": "Attacking Midfielder",
+    "preferredFoot": "Right-footed",
+    "price": 350
+  },
+  {
+    "playerName": "Jude Bellingham",
+    "playerImg": "https://media.gettyimages.com/id/2280722725/photo/palm-beach-florida-jude-bellingham-of-england-poses-for-a-portrait-during-the-official-fifa.jpg?s=612x612&w=0&k=20&c=fgoqw3m1RS6ofcDH4ZZyxh8sYUbyeI4VjzLExuQctAg=",
+    "origin": "England",
+    "playerType": "Midfielder",
+    "position": "Attacking Midfielder",
+    "preferredFoot": "Right-footed",
+    "price": 350
+  },
+  {
+    "playerName": "Enzo Fernandez",
+    "playerImg": "https://media.gettyimages.com/id/2281268861/photo/kansas-city-kansas-enzo-fernandez-of-argentina-poses-for-a-portrait-during-the-official-fifa.jpg?s=612x612&w=0&k=20&c=r2d9ZSYjGnagNVpwITdaZ1C6UP4rqyjJRpxb7wB0gro=",
+    "origin": "Argentina",
+    "playerType": "Midfielder",
+    "position": "Central Midfielder",
+    "preferredFoot": "Right-footed",
+    "price": 350
+  },
+  {
+    "playerName": "Virgil van Dijk",
+    "playerImg": "https://media.gettyimages.com/id/2280381589/photo/white-plains-new-york-virgil-van-dijk-of-netherlands-poses-for-a-portrait-during-the-official.jpg?s=612x612&w=0&k=20&c=qX1l3Kz2vnS0SxCcAB5HzraF6_fZ8vHDjJtbUL5BeL0=",
+    "origin": "Netherlands",
+    "playerType": "Defender",
+    "position": "Centre-Back",
+    "preferredFoot": "Right-footed",
+    "price": 350
+  },
+  {
+    "playerName": "Christian Romero",
+    "playerImg": "https://media.gettyimages.com/id/2281268854/photo/kansas-city-kansas-cristian-romero-of-argentina-poses-for-a-portrait-during-the-official-fifa.jpg?s=612x612&w=0&k=20&c=NlBKshX1T5eDT7xy4MrE180sluhvTyZPo_AwLsTyOnM=",
+    "origin": "Argentina",
+    "playerType": "Defender",
+    "position": "Centre-Back",
+    "preferredFoot": "Right-footed",
+    "price": 300
+  },
+  {
+    "playerName": "Emiliano Martinez",
+    "playerImg": "https://media.gettyimages.com/id/1442740128/photo/argentina-portraits-fifa-world-cup-qatar-2022.jpg?s=594x594&w=gi&k=20&c=q9t_DGNd6OzY9ZVvwQAi4TM2iU3Ymx9LvsFBu7F7nNA=",
+    "origin": "Argentina",
+    "playerType": "Goalkeeper",
+    "position": "Goalkeeper",
+    "preferredFoot": "Right-footed",
+    "price": 300
+  },
+  {
+    "playerName": "Manuel Neuer",
+    "playerImg": "https://media.gettyimages.com/id/2280941286/photo/winston-salem-north-carolina-manuel-neuer-of-germany-poses-for-a-portrait-during-the-official.jpg?s=612x612&w=0&k=20&c=PdRX1XMU1XX9Ieab9ql0v-a103gL9cuvjTRPF2P9rUI=",
+    "origin": "Germany",
+    "playerType": "Goalkeeper",
+    "position": "Goalkeeper",
+    "preferredFoot": "Right-footed",
+    "price": 300
+  }
+]
