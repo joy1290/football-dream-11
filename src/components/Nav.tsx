@@ -16,42 +16,42 @@ const Nav = ({ coin }: { coin: number }) => {
 
         {/* Navigation */}
         <ul className="flex items-center gap-3 text-sm font-medium sm:gap-5 sm:text-base md:gap-8">
-          <li>
-            <a
-              href="#home"
-              className="transition-colors duration-200 hover:text-blue-600"
-            >
-              Home
-            </a>
-          </li>
+  <li>
+    <a
+      href="#home"
+      className="text-black transition-colors duration-200 hover:text-blue-600"
+    >
+      Home
+    </a>
+  </li>
 
-          <li>
-            <a
-              href="#fixture"
-              className="transition-colors duration-200 hover:text-blue-600"
-            >
-              Fixture
-            </a>
-          </li>
+  <li>
+    <a
+      href="#fixture"
+      className="text-black transition-colors duration-200 hover:text-blue-600"
+    >
+      Fixture
+    </a>
+  </li>
 
-          <li>
-            <a
-              href="#players"
-              className="transition-colors duration-200 hover:text-blue-600"
-            >
-              Players
-            </a>
-          </li>
+  <li>
+    <a
+      href="#players"
+      className="text-black transition-colors duration-200 hover:text-blue-600"
+    >
+      Players
+    </a>
+  </li>
 
-          <li>
-            <a
-              href="#schedule"
-              className="transition-colors duration-200 hover:text-blue-600"
-            >
-              Schedule
-            </a>
-          </li>
-        </ul>
+  <li>
+    <a
+      href="#schedule"
+      className="text-black transition-colors duration-200 hover:text-blue-600"
+    >
+      Schedule
+    </a>
+  </li>
+</ul>
 
         {/* Coin Badge */}
         <div className="flex items-center gap-2 rounded-xl bg-white px-3 py-2 shadow-sm sm:px-5 sm:py-2.5">
